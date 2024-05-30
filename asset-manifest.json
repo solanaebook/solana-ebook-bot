@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/solana-ebook-bot/static/css/main.7c1f5165.css",
-    "main.js": "/solana-ebook-bot/static/js/main.76345c24.js",
+    "main.js": "/solana-ebook-bot/static/js/main.984ca1b9.js",
     "static/js/453.2e0ceb4e.chunk.js": "/solana-ebook-bot/static/js/453.2e0ceb4e.chunk.js",
     "index.html": "/solana-ebook-bot/index.html",
     "main.7c1f5165.css.map": "/solana-ebook-bot/static/css/main.7c1f5165.css.map",
-    "main.76345c24.js.map": "/solana-ebook-bot/static/js/main.76345c24.js.map",
+    "main.984ca1b9.js.map": "/solana-ebook-bot/static/js/main.984ca1b9.js.map",
     "453.2e0ceb4e.chunk.js.map": "/solana-ebook-bot/static/js/453.2e0ceb4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c1f5165.css",
-    "static/js/main.76345c24.js"
+    "static/js/main.984ca1b9.js"
   ]
 }
